@@ -58,3 +58,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 These scripts were created for educational purposes and inspired by similar utilities available in various programming languages.
+
+Made with ❤️ by Rocksiz
